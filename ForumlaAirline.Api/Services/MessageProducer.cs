@@ -28,6 +28,6 @@ public class MessageProducer : IMessageProducer
 
         var body = Encoding.UTF8.GetBytes(jsonString);
 
-        channel.BasicPublish("","Bookings", body:body);
+        channel.BasicPublish("","bookings", body:body);
     }
 }
