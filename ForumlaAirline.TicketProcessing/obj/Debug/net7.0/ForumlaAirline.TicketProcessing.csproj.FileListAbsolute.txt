@@ -1,0 +1,15 @@
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\bin\Debug\net7.0\ForumlaAirline.TicketProcessing.exe
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\bin\Debug\net7.0\ForumlaAirline.TicketProcessing.deps.json
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\bin\Debug\net7.0\ForumlaAirline.TicketProcessing.runtimeconfig.json
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\bin\Debug\net7.0\ForumlaAirline.TicketProcessing.dll
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\bin\Debug\net7.0\ForumlaAirline.TicketProcessing.pdb
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.csproj.AssemblyReference.cache
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.AssemblyInfoInputs.cache
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.AssemblyInfo.cs
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.dll
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\refint\ForumlaAirline.TicketProcessing.dll
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.pdb
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ForumlaAirline.TicketProcessing.genruntimeconfig.cache
+D:\Backend\ForumlaAirline\ForumlaAirline.TicketProcessing\obj\Debug\net7.0\ref\ForumlaAirline.TicketProcessing.dll
